@@ -1,2 +1,2 @@
 # COVID19-Pressure-Hood-Alarm
-Embedded controller software source code of  COVID19 pressure hood alarm system.
+Embedded controller source code for COVID19 pressure hood alarm system.
